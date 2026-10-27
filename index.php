@@ -8,3 +8,6 @@ echo $stackTwo;
 
 $stackThree = "stack 3";
 echo $stackThree;
+
+$stackFourth = "stack 4";
+echo $stackFourth;
